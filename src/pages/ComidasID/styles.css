@@ -1,0 +1,25 @@
+.start-recipe-btn {
+  bottom: 0;
+  position: fixed;
+}
+
+.recommended-img {
+  width: 100px;
+}
+
+.slider {
+  height: auto;
+  width: 100%;
+}
+
+.slide-img {
+  width: 180px;
+}
+
+.recipe-thumbnail {
+  width: 100%;
+}
+
+.ala {
+  margin: 0 8px;
+}

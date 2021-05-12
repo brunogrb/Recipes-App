@@ -1,0 +1,11 @@
+.footer {
+  align-items: center;
+  background-color: white;
+  border-top: 1px solid rgba(89, 134, 202, 0.125);
+  bottom: 0;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+  position: fixed;
+  width: 100vw;
+}

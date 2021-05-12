@@ -1,0 +1,15 @@
+.header {
+  align-items: center;
+  background-color: white;
+  border-bottom: 1px solid rgba(89, 134, 202, 0.125);
+  display: flex;
+  justify-content: space-around;
+  padding: 14px 0;
+}
+
+
+.b-search {
+  background-color: white;
+  border: none;
+  border-radius: 50px;
+}

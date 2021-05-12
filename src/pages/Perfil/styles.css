@@ -1,0 +1,17 @@
+.perfil {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 46px;
+}
+
+.perfil .form-button {
+  font-size: 20px;
+  padding: 16px 22px;
+  text-decoration: none;
+}
+
+.h3-email {
+  font-size: 24px;
+}

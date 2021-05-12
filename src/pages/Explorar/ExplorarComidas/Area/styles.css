@@ -1,0 +1,22 @@
+.container-foods {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 30px;
+}
+
+.list-foods {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  margin: 5px;
+  text-align: center;
+  width: 300px;
+}
+
+.list-foods img {
+  width: 100%;
+}

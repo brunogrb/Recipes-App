@@ -1,0 +1,20 @@
+.search-form-wrapper {
+  align-items: flex-start;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 0 20%;
+  width: 100vw;
+}
+
+.form-input {
+  width: 100%;
+}
+
+.search-wrap-radio {
+  margin-top: 8px;
+}
+
+.search-label {
+  margin-left: 6px;
+}

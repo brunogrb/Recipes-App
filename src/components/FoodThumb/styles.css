@@ -1,0 +1,22 @@
+.thumb-title-wrapper {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 7vh;
+}
+
+.thumb-icons {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 12px;
+}
+
+.f-icon {
+  margin-right: 12px;
+}
+
+.recipe-thumbnail {
+  height: 28vh;
+  object-fit: cover;
+  width: 100vw;
+}

@@ -1,0 +1,95 @@
+* {
+  box-sizing: border-box;
+  font-family: Open Sans , sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #f2f5fa;
+}
+
+.meals {
+  align-items: center;
+  color: #3d465a;
+  flex-direction: column;
+  font-family: sans-serif;
+  height: 100vh;
+  justify-content: center;
+  width: 100%;
+}
+
+.loader {
+  animation: spin 0.5s linear infinite;
+  border: 16px solid #f2f5fa;
+  border-radius: 50%;
+  border-top: 8px solid #b3c6f1;
+  height: 90px;
+  width: 90px;
+}
+
+@keyframes spin {
+
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* .rocksGlass {
+  animation: shake 1s infinite ease;
+  max-height: 80vh;
+} */
+
+/*
+#iceLeft {
+  animation: clink .8s infinite ease;
+  opacity: 0.6;
+  transform-origin: 36px 66px;
+}
+
+#iceRight {
+  animation: clink .8s .2s infinite ease;
+  opacity: 0.6;
+  transform-origin: 60px 78px;
+}
+*/
+
+/* .meals > .logo {
+  animation: shake 1.5s infinite ease;
+  color: aliceblue;
+  font-family: Montserrat, sans-serif;
+  font-size: 3em;
+  font-weight: 900;
+}
+
+@keyframes shake {
+  0% {
+    transform: rotate(5deg);
+  }
+
+  50% {
+    transform: rotate(-5deg);
+  }
+
+  100% {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes clink {
+  0% {
+    transform: rotate(-10deg);
+  }
+
+  50% {
+    transform: rotate(20deg);
+  }
+
+  100% {
+    transform: rotate(-10deg);
+  }
+} */
